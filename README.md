@@ -1,5 +1,7 @@
 🎓 Student Management System
+
 A comprehensive Student Management System that allows administrators to manage students, teachers, courses, and sessions, while providing teachers the ability to take attendance and students to track their progress.
+
 
 
 Admin Relations
@@ -60,23 +62,37 @@ Session |||--- scheduled for ---||| Courses
 
 
 🚀 Features
+
 👨‍💼 Admin
+
 Add & manage students, teachers, courses, subjects, and sessions.
+
 Edit & update student and teacher details.
+
 Assign subjects and courses to students and teachers.
 
 
+
 👨‍🏫 Teacher
+
 Login & access dashboard for student management.
+
 View student lists under assigned courses.
+
 Take attendance for students.
 
 
+
 🧑‍🎓 Student
+
 Login & access dashboard to track academic progress.
+
 View assigned courses and subjects.
+
 Check attendance records.
+
 Apply for leave in case of absence.
+
 
 ## 🛠️ Tech Stack
 - **Backend**: Django (Python)
