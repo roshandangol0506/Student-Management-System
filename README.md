@@ -60,7 +60,7 @@ Session |||--- scheduled for ---||| Courses
 
 
 
-### 🚀 Features
+## 🚀 Features
 
 ### 👤 Admin
 - Add & manage students, teachers, courses, subjects, and sessions.
@@ -86,7 +86,6 @@ Session |||--- scheduled for ---||| Courses
 - **Payment Gateway**: eSewa Integration
 
 
-## 🔧 Installation
 
 1. Clone the repository:
    ```sh
