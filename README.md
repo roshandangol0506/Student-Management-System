@@ -60,38 +60,23 @@ Session |||--- scheduled for ---||| Courses
 
 
 
+### 🚀 Features
 
-🚀 Features
+### 👤 Admin
+- Add & manage students, teachers, courses, subjects, and sessions.
+- Edit & update student and teacher details.
+- Assign subjects and courses to students and teachers.
 
-👨‍💼 Admin
+### 👨‍🏫 Teacher
+- Login & access dashboard for student management.
+- View student lists under assigned courses.
+- Take attendance for students.
 
-Add & manage students, teachers, courses, subjects, and sessions.
-
-Edit & update student and teacher details.
-
-Assign subjects and courses to students and teachers.
-
-
-
-👨‍🏫 Teacher
-
-Login & access dashboard for student management.
-
-View student lists under assigned courses.
-
-Take attendance for students.
-
-
-
-🧑‍🎓 Student
-
-Login & access dashboard to track academic progress.
-
-View assigned courses and subjects.
-
-Check attendance records.
-
-Apply for leave in case of absence.
+### 🧑‍🎓 Student
+- Login & access dashboard to track academic progress.
+- View assigned courses and subjects.
+- Check attendance records.
+- Apply for leave in case of absence.
 
 
 ## 🛠️ Tech Stack
